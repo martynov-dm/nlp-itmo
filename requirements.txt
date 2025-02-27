@@ -1,0 +1,4 @@
+pandas==2.2.3
+natasha==1.6.0
+wget==3.2
+scikit-learn
